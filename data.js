@@ -1,0 +1,41 @@
+const resumeData = {
+  name: "Hashanuz Zaman",
+  email: "hashanuzzaman99@gmail.com",
+  phone: "+8801704351124",
+  location: "Ulipur, Kurigram, Bangladesh",
+  github: "https://github.com/HIMU005",
+  linkedin: "https://www.linkedin.com/in/hashanuz-zaman-himu/",
+  education: [
+    "B.Sc. in Computer Science – Gopalgonj Science And Technology (2022–2026)",
+    "HSC – CPSCBUSMS (2020)",
+    "SSC – Ulipur M.S School & College (2018)",
+  ],
+  experience: ["Fresher"],
+  skills: [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "MongoDB",
+    "Firebase",
+    "Git & GitHub",
+    "PostgreSQL",
+    "Prisma (ORM)",
+  ],
+  projects: [
+    {
+      name: "Task Provider",
+      description: "Simple micro earning platform.",
+      live: "https://work-managemnt.web.app/",
+      github: "https://github.com/HIMU005/task-provider-12-client-by-himu",
+    },
+    {
+      name: "Art Gallery",
+      description: "Users can post images with descriptions.",
+      live: "https://authentication-and-datab-2950f.web.app/",
+      github: "https://github.com/HIMU005/art-gallery-client-by-himu",
+    },
+  ],
+  certifications: ["Web Development Bootcamp – Programming Hero (2023)"],
+};
